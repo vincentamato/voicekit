@@ -1,3 +1,18 @@
+# Data
+data/
+
+# Models
+models/
+
+# Outputs
+outputs/
+
+# Don't ignore the data folder in src
+!src/data/
+
+# Don't ignore the models folder in src
+!src/models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
